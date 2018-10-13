@@ -12,6 +12,12 @@ Furthermore, it is an exercise in *Event Sourcing*, which I think functional pro
 The unit tests will be written in TDD, as I always so, and if I can figure out how to make integration tests, they will as well.
 
 ## Techs n tools
+ - Haskell
+ - Github
+ - VS Code
+ - Stack
+ - OpenGL
+ - 
 
 ## Architecure
 The game will have the following elements: (an ever changing list, but I thought it might be fun to see how it changes over time)
